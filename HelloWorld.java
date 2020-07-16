@@ -40,5 +40,6 @@ public class HelloWorld {
     System.out.println("Hello, Ansible");
     System.out.println("Hello, Docker");
     System.out.println("Hello, Kubernetes");
+    System.out.println("Hello, Terraform");
   }
 }
